@@ -25,4 +25,3 @@ Advanced Mode > Settings > IO Ports > DVMT Pre-Allocated > 128M (此配置只在
 Advanced Mode > Power Management > ERP > Enabled
 Boot > CFG Lock > Disabled
 CFG 必须禁用才能启用 NVRAM
-[Gigabyte Z390 Gaming X_OC配置文件.zip](https://github.com/pp-png/Gigabyte-Z390-Gaming-X-i5-9600KF-GT710_2GB-Hackintosh/files/8066451/Gigabyte.Z390.Gaming.X_OC.zip)
