@@ -36,20 +36,16 @@ Advanced Mode > Settings > IO Ports > Above 4G Decoding > Enabled
 Advanced Mode > Settings > IO Ports > USB Configuration > XHCI Hand-off > Enabled
 
 Advanced Mode > Boot > CSM Support > Disabled
-/#########################################################################################################################
-/#   Advanced Mode > Settings > IO Ports > Internal Graphics > Enabled                                                   #
-/#                                                                                                                       #
-/#   Advanced Mode > Settings > IO Ports > DVMT Pre-Allocated > 128M (此配置只在启用Internal Graphics后出现)                #
-/#########################################################################################################################
 
-“#”圈起来的 没核显不用管（cpu后面带F的表示没核显）
+/#  Advanced Mode > Settings > IO Ports > Internal Graphics > Enabled                                                   #
+
+/# Advanced Mode > Settings > IO Ports > DVMT Pre-Allocated > 128M (此配置只在启用Internal Graphics后出现)                #
+
+“/#”标注的 没核显不用管（cpu后面带F的表示没核显）
 Advanced Mode > Power Management > ERP > Enabled
 
 Boot > CFG Lock > Disabled
 CFG 必须禁用才能启用 NVRAM
-
-
-
 
 
 # 目前工作正常
