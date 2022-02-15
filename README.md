@@ -1,5 +1,7 @@
 Gigabyte Z390 Gaming X and i5-9600K Hackintosh
 
+系统：Big Sur 11.1   ➕win10
+
 硬件配置
 
 主板	技嘉z390 Gaming X
@@ -12,7 +14,7 @@ CPU	i5-9600KF 6核6线程
 
 无线网卡、蓝牙	  无
 
-固态	西数M.2 500G SSD
+固态	西数M.2 500G SSD ➕ SATA 512GB
 
 电源	550W 模组
 
