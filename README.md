@@ -1,13 +1,22 @@
 Gigabyte Z390 Gaming X and i5-9600K Hackintosh
+
 硬件配置
 类型	型号
+
 主板	技嘉z390 Gaming X
+
 CPU	i5-9600KF 6核6线程
+
 显卡	 七彩虹GT710 2GB
-内存	8+8+4+4=24GB DDR4 2666频率x2
+
+内存	8+8+4+4=24GB DDR4 2666频率
+
 无线网卡、蓝牙	  无
+
 固态	西数M.2 500G SSD
+
 电源	550W 模组
+
 EFI 版本
 OpenCore 0.6.3
 
@@ -15,6 +24,7 @@ SMBIOS ID
 iMac19,1 / 27 寸
 
 BIOS 配置
+
 BIOS Q-Flash 升级为 10F
 Advanced Mode > Settings > IO Ports > Initial Display Output > PCIe 1 Slot
 Advanced Mode > Settings > IO Ports > Above 4G Decoding > Enabled
