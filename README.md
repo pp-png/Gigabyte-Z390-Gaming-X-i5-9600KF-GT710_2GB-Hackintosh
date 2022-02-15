@@ -1,8 +1,9 @@
-Gigabyte Z390 Gaming X and i5-9600K Hackintosh
+Gigabyte Z390 Gaming X and i5-9600KF Hackintosh
 
-系统：Big Sur 11.1   ➕win10
+# 系统
+Big Sur 11.1 ➕win10
 
-硬件配置
+# 硬件配置
 
 主板	技嘉z390 Gaming X
 
@@ -18,13 +19,13 @@ CPU	i5-9600KF 6核6线程
 
 电源	550W 模组
 
-EFI 版本
+# EFI 版本
 OpenCore 0.6.3
 
-SMBIOS ID
+# SMBIOS ID
 iMac19,1 / 27 寸
 
-BIOS 配置
+# BIOS 配置
 
 BIOS Q-Flash 升级为 10F
 
@@ -35,11 +36,11 @@ Advanced Mode > Settings > IO Ports > Above 4G Decoding > Enabled
 Advanced Mode > Settings > IO Ports > USB Configuration > XHCI Hand-off > Enabled
 
 Advanced Mode > Boot > CSM Support > Disabled
-#########################################################################################################################
-#   Advanced Mode > Settings > IO Ports > Internal Graphics > Enabled                                                   #
-#                                                                                                                       #
-#   Advanced Mode > Settings > IO Ports > DVMT Pre-Allocated > 128M (此配置只在启用Internal Graphics后出现)                #
-#########################################################################################################################
+/#########################################################################################################################
+/#   Advanced Mode > Settings > IO Ports > Internal Graphics > Enabled                                                   #
+/#                                                                                                                       #
+/#   Advanced Mode > Settings > IO Ports > DVMT Pre-Allocated > 128M (此配置只在启用Internal Graphics后出现)                #
+/#########################################################################################################################
 
 “#”圈起来的 没核显不用管（cpu后面带F的表示没核显）
 Advanced Mode > Power Management > ERP > Enabled
@@ -51,7 +52,7 @@ CFG 必须禁用才能启用 NVRAM
 
 
 
-目前工作正常
+# 目前工作正常
 
 cpu变频 ok
 
